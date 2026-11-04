@@ -1,0 +1,86 @@
+﻿id_venta,fecha,producto,categoria,ciudad,cantidad,precio_unitario,medio_pago,observaciones,estado_revision
+1001,2026-03-01,Notebook Lenovo,Tecnología,Buenos Aires,2.0,850000.0,Tarjeta,,Correcto
+1002,2026-01-03,Mouse Logitech,,Córdoba,5.0,18500.0,Efectivo,,Correcto
+1003,2026-05-01,Teclado Redragon,Periféricos,Rosario,3.0,32000.0,Transferencia,,Correcto
+1004,2026-06-01,Monitor Samsung,,Mendoza,1.0,210000.0,Tarjeta,,Correcto
+1005,2026-01-07,Auriculares JBL,Audio,Buenos Aires,4.0,45000.0,Tarjeta,,Correcto
+1006,2026-08-01,Mouse Logitech,Periféricos,Córdoba,5.0,18500.0,Efectivo,,Correcto
+1007,2026-09-01,Webcam Logitech,Accesorios,La Plata,2.0,67000.0,Transferencia,,Correcto
+1008,2026-10-01,Notebook Lenovo,Tecnología,Buenos Aires,1.0,850000.0,Tarjeta,,Correcto
+1009,2026-01-10,Silla Gamer,Muebles,Rosario,1.0,195000.0,Efectivo,,Correcto
+1010,2026-11-01,Monitor Samsung,Tecnología,Mendoza,2.0,-210000.0,Tarjeta,Verificar precio con factura,Revisar precio
+1011,2026-12-01,Mouse Logitech,Periféricos,Córdoba,,18500.0,Efectivo,,Cantidad faltante
+1012,2026-01-13,Auriculares JBL,Audio,Buenos Aires,3.0,,Tarjeta,,Correcto
+1013,2026-01-14,Teclado Redragon,,Rosario,2.0,32000.0,Transferencia,,Correcto
+1014,2026-01-15,Webcam Logitech,Accesorios,La Plata,1.0,67000.0,Transferencia,,Correcto
+1015,2026-01-16,Silla Gamer,Muebles,Rosario,2.0,195000.0,Efectivo,,Correcto
+1016,2026-01-17,Notebook Lenovo,,Buenos Aires,1.0,850000.0,Tarjeta,,Correcto
+1017,2026-01-18,Mouse Logitech,Periféricos,Córdoba,4.0,18500.0,Efectivo,,Correcto
+1018,2026-01-19,Monitor Samsung,Tecnología,Mendoza,1.0,210000.0,Transferencia,,Correcto
+1019,2026-01-20,Auriculares JBL,Audio,Buenos Aires,2.0,45000.0,Tarjeta,,Correcto
+1020,2026-01-21,Teclado Redragon,Periféricos,Rosario,0.0,32000.0,Transferencia,Verificar cantidad con registro de ventas,Revisar cantidad
+1021,2026-03-20,Webcam Logitech,Accesorios,Buenos Aires,1.0,67000.0,Tarjeta,,Correcto
+1022,2026-03-16,Mouse Logitech,Periféricos,Córdoba,1.0,18500.0,Transferencia,,Correcto
+1023,2026-06-02,Monitor Samsung,Tecnología,Buenos Aires,1.0,,Tarjeta,,Correcto
+1024,2026-08-03,Auriculares JBL,Audio,La Plata,1.0,45000.0,Transferencia,,Correcto
+1025,2026-02-15,Webcam Logitech,Accesorios,La Plata,4.0,67000.0,Transferencia,,Correcto
+1026,2026-03-17, Teclado Redragon ,Periféricos,Buenos Aires,2.0,32000.0,Efectivo,,Correcto
+1027,2026-03-21,Teclado Redragon,Periféricos,Córdoba,2.0,32000.0,Tarjeta,,Correcto
+1028,2026-02-23,Notebook Lenovo,Tecnología,Mendoza,1.0,850000.0,Transferencia,,Correcto
+1029,2026-07-03,Teclado Redragon,Periféricos,Buenos Aires,4.0,32000.0,Efectivo,,Correcto
+1030,2026-03-26,Notebook Lenovo,Tecnología,La Plata,3.0,850000.0,Transferencia,,Correcto
+1031,2026-03-15,Mouse Logitech,Periféricos,Buenos Aires,1.0,18500.0,Efectivo,,Correcto
+1032,2026-02-25,Notebook Lenovo,Tecnología,Córdoba,1.0,850000.0,Efectivo,,Correcto
+1033,2026-02-24,Webcam Logitech,Accesorios,Rosario,2.0,67000.0,Tarjeta,,Correcto
+1034,2026-11-03,Webcam Logitech,Accesorios,Rosario,1.0,67000.0,Transferencia,,Correcto
+1035,2026-03-02,Webcam Logitech,Accesorios,Córdoba,2.0,67000.0,Efectivo,,Correcto
+1036,2026-03-16,Webcam Logitech,Accesorios,La Plata,2.0,-67000.0,Tarjeta,Verificar precio con factura,Revisar precio
+1037,2026-02-26,Mouse Logitech,Periféricos,Buenos Aires,3.0,18500.0,Tarjeta,,Correcto
+1038,2026-02-14,Mouse Logitech,Periféricos,La Plata,3.0,18500.0,Efectivo,,Correcto
+1039,2026-02-17,Webcam Logitech,Accesorios,Mendoza,2.0,67000.0,Tarjeta,,Correcto
+1040,2026-02-17,Webcam Logitech,Accesorios,La Plata,5.0,67000.0,Transferencia,,Correcto
+1041,2026-02-09,Monitor Samsung,Tecnología,Rosario,2.0,210000.0,Tarjeta,,Correcto
+1042,2026-10-02,Silla Gamer,Muebles,Buenos Aires,1.0,195000.0,Transferencia,,Correcto
+1043,2026-02-25,Monitor Samsung,Tecnología,La Plata,1.0,210000.0,Transferencia,,Correcto
+1044,2026-08-03,Monitor Samsung,Tecnología,La Plata,,210000.0,Transferencia,,Cantidad faltante
+1045,2026-03-21, Webcam Logitech ,Accesorios,Buenos Aires,5.0,67000.0,Transferencia,,Correcto
+1046,2026-02-28,Teclado Redragon,Periféricos,Buenos Aires,3.0,32000.0,Efectivo,,Correcto
+1047,2026-03-21,Notebook Lenovo,Tecnología,Rosario,5.0,850000.0,Transferencia,,Correcto
+1048,2026-11-03,Notebook Lenovo,Tecnología,Rosario,5.0,850000.0,Tarjeta,,Correcto
+1049,2026-03-22,Teclado Redragon,Periféricos,Córdoba,5.0,32000.0,Transferencia,,Correcto
+1050,2026-02-08,Teclado Redragon,Periféricos,Mendoza,1.0,32000.0,Efectivo,,Correcto
+1051,2026-09-03,Mouse Logitech,Periféricos,Buenos Aires,2.0,18500.0,Tarjeta,,Correcto
+1052,2026-03-21,Webcam Logitech,Accesorios,Mendoza,1.0,67000.0,Tarjeta,,Correcto
+1053,2026-02-11,Webcam Logitech,Accesorios,Mendoza,5.0,67000.0,Transferencia,,Correcto
+1054,2026-02-14,Silla Gamer,Muebles,La Plata,4.0,,Transferencia,,Correcto
+1055,2026-03-01,Teclado Redragon,Periféricos,Mendoza,3.0,32000.0,Tarjeta,,Correcto
+1056,2026-02-22,Mouse Logitech,Periféricos,Córdoba,1.0,18500.0,Transferencia,,Correcto
+1057,2026-02-15,Auriculares JBL,Audio,Córdoba,5.0,45000.0,Tarjeta,,Correcto
+1058,2026-05-02,Webcam Logitech,Accesorios,Buenos Aires,2.0,67000.0,Efectivo,,Correcto
+1059,2026-02-18,Notebook Lenovo,Tecnología,La Plata,2.0,850000.0,Tarjeta,,Correcto
+1060,2026-03-09,Auriculares JBL,Audio,Córdoba,5.0,45000.0,Tarjeta,,Correcto
+1061,2026-02-13,Silla Gamer,Muebles,Mendoza,4.0,195000.0,Tarjeta,,Correcto
+1062,2026-02-28,Webcam Logitech,Accesorios,Mendoza,3.0,67000.0,Efectivo,,Correcto
+1063,2026-02-04,Silla Gamer,Muebles,Buenos Aires,1.0,195000.0,Transferencia,,Correcto
+1064,2026-02-13, Teclado Redragon ,Periféricos,Buenos Aires,2.0,32000.0,Transferencia,,Correcto
+1065,2026-02-12,Monitor Samsung,Tecnología,Córdoba,4.0,210000.0,Efectivo,,Correcto
+1066,2026-03-24,Mouse Logitech,Periféricos,Buenos Aires,4.0,18500.0,Tarjeta,,Correcto
+1067,2026-06-02,Webcam Logitech,Accesorios,La Plata,1.0,67000.0,Tarjeta,,Correcto
+1068,2026-02-14,Monitor Samsung,Tecnología,Mendoza,4.0,210000.0,Tarjeta,,Correcto
+1069,2026-02-25,Mouse Logitech,Periféricos,Mendoza,1.0,18500.0,Efectivo,,Correcto
+1070,2026-03-15,Teclado Redragon,Periféricos,Mendoza,5.0,32000.0,Tarjeta,,Correcto
+1071,2026-04-02,Mouse Logitech,Periféricos,Rosario,2.0,18500.0,Transferencia,,Correcto
+1072,2026-03-10,Teclado Redragon,Periféricos,Buenos Aires,1.0,32000.0,Transferencia,,Correcto
+1073,2026-04-02,Silla Gamer,Muebles,La Plata,,-195000.0,Tarjeta,Verificar precio con factura,Cantidad faltante
+1074,2026-03-16,Notebook Lenovo,Tecnología,La Plata,1.0,850000.0,Efectivo,,Correcto
+1075,2026-10-03,Notebook Lenovo,Tecnología,La Plata,2.0,850000.0,Transferencia,,Correcto
+1076,2026-03-09,Notebook Lenovo,Tecnología,Mendoza,5.0,850000.0,Efectivo,,Correcto
+1077,2026-02-17,Mouse Logitech,Periféricos,Rosario,2.0,18500.0,Tarjeta,,Correcto
+1078,2026-02-21,Webcam Logitech,Accesorios,Rosario,4.0,67000.0,Tarjeta,,Correcto
+1079,2026-07-02,Monitor Samsung,Tecnología,La Plata,5.0,210000.0,Transferencia,,Correcto
+1080,2026-02-09,Mouse Logitech,Periféricos,La Plata,3.0,18500.0,Tarjeta,,Correcto
+1081,,Mouse Logitech,Periféricos,Córdoba,2.0,18500.0,Efectivo,Fecha faltante. Verificar registro original.,Correcto
+1082,2026-04-03,Tablet Samsung,,Santa Fe,1.0,320000.0,Tarjeta,,Correcto
+1083,2026-05-03,Monitor Samsung,Tecnología,Mendoza,-2.0,210000.0,Transferencia,Verificar cantidad con registro de ventas,Revisar cantidad
+1084,,Auriculares JBL,Audio,Buenos Aires,2.0,45000.0,Tarjeta,Fecha faltante. Verificar registro original.,Correcto
+1085,2026-07-03,Webcam Logitech,Accesorios,,1.0,67000.0,Crédito, Ciudad faltante. Verificar registro original.,Correcto
