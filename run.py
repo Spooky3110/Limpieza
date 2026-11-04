@@ -157,4 +157,4 @@ print(df.dtypes)
 print("\nResumen estadístico:")
 print(df.describe())
 
-df.to_csv("ventas_limpias.csv", index=False, encoding="utf-8-sig")
+#df.to_csv("ventas_limpias.csv", index=False, encoding="utf-8-sig")
